@@ -1,0 +1,62 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="E9DA2DBE-6CDD-45E0-AF20-CF20F259A44F/f:AttendeeControllerTests.cs" caret="151" fromTop="10" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:ConferenceContext.cs" caret="374" fromTop="12" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Controllers/f:AttendeeController.cs" caret="1501" fromTop="28" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Speaker/f:Details.cshtml" caret="408" fromTop="20" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Attendee/f:Create.cshtml" caret="0" fromTop="0" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:SpeakerRepository.cs" caret="140" fromTop="5" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:AttendeeRepository.cs" caret="329" fromTop="13" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Speaker/f:Index.cshtml" caret="512" fromTop="18" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Content/f:jquery-ui-timepicker-addon.css" caret="353" fromTop="5" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Scripts/f:jquery-ui-sliderAccess.js" caret="756" fromTop="22" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Scripts/f:jquery-ui-timepicker-addon.js" caret="17325" fromTop="16" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Shared/f:_Layout.cshtml" caret="823" fromTop="13" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Session/f:List.cshtml" caret="192" fromTop="10" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Session/f:_SessionForm.cshtml" caret="287" fromTop="14" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Controllers/f:SpeakerController.cs" caret="1319" fromTop="14" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Speaker/f:Register.cshtml" caret="100" fromTop="4" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Controllers/f:SessionController.cs" caret="1749" fromTop="33" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Session/f:Create.cshtml" caret="0" fromTop="0" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Session/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Shared/d:EditorTemplates/f:TimeDropDownList.cshtml" caret="0" fromTop="0" />
+    <File id="E9DA2DBE-6CDD-45E0-AF20-CF20F259A44F/f:Class1.cs" caret="210" fromTop="6" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:SessionRepository.cs" caret="1186" fromTop="20" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:Speaker.cs" caret="0" fromTop="0" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Helpers/f:TimeList.cs" caret="0" fromTop="0" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:Session.cs" caret="466" fromTop="15" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:Attendee.cs" caret="312" fromTop="10" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:IRepository.cs" caret="0" fromTop="0" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:Speaker.cs" caret="113" fromTop="4" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:Attendee.cs" caret="180" fromTop="5" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:IRepository.cs" caret="329" fromTop="13" />
+    <File id="E9DA2DBE-6CDD-45E0-AF20-CF20F259A44F/f:AttendeeControllerTests.cs" caret="139" fromTop="7" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Controllers/f:AttendeeController.cs" caret="1384" fromTop="20" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:ConferenceContext.cs" caret="374" fromTop="12" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Speaker/f:Details.cshtml" caret="81" fromTop="4" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Attendee/f:Create.cshtml" caret="477" fromTop="21" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Session/f:Create.cshtml" caret="136" fromTop="7" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:SpeakerRepository.cs" caret="905" fromTop="35" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Speaker/f:Register.cshtml" caret="488" fromTop="22" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:AttendeeRepository.cs" caret="925" fromTop="36" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Session/f:List.cshtml" caret="192" fromTop="10" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Scripts/f:jquery-ui-timepicker-addon.js" caret="71092" fromTop="26" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Content/f:jquery-ui-timepicker-addon.css" caret="353" fromTop="5" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Shared/f:_Layout.cshtml" caret="292" fromTop="6" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Scripts/f:jquery-ui-sliderAccess.js" caret="765" fromTop="22" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Helpers/f:TimeList.cs" caret="599" fromTop="22" />
+    <File id="E9DA2DBE-6CDD-45E0-AF20-CF20F259A44F/f:Class1.cs" caret="1663" fromTop="26" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Speaker/f:Index.cshtml" caret="512" fromTop="18" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Shared/d:EditorTemplates/f:TimeDropDownList.cshtml" caret="126" fromTop="1" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Session/f:_SessionForm.cshtml" caret="160" fromTop="7" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Views/d:Session/f:Index.cshtml" caret="382" fromTop="18" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Controllers/f:SessionController.cs" caret="1623" fromTop="5" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Controllers/f:SpeakerController.cs" caret="1319" fromTop="14" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:SessionRepository.cs" caret="1171" fromTop="20" />
+    <File id="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61/d:Models/f:Session.cs" caret="517" fromTop="16" />
+  </RecentEdits>
+</RecentFiles>

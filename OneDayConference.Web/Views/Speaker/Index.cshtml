@@ -1,0 +1,22 @@
+﻿@model System.Linq.IQueryable<OneDayConference.Web.Models.Speaker>
+
+@{
+    ViewBag.Title = "List of Speakers";
+}
+
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Edit</th>
+        <th>View Session(s)</th>
+    </tr>
+    @foreach(var speaker in Model)
+    {
+        <tr>
+            <td>@speaker.Name</td>
+            <td>@Html.ActionLink("Add Session", "Create", "Session", new{speakerId = speaker.Id}, null)</td>
+            <td>@Html.ActionLink("Sessions", "List", "Session", new { speakerId = speaker.Id }, null)</td>
+        </tr>
+    }
+</table>

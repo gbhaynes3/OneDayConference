@@ -1,0 +1,14 @@
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\bin\Debug\OneDayConference.Tests.dll
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\bin\Debug\OneDayConference.Tests.pdb
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\bin\Debug\Moq.dll
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\bin\Debug\Moq.pdb
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\bin\Debug\Moq.xml
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\obj\Debug\OneDayConference.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\obj\Debug\OneDayConference.Tests.dll
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\obj\Debug\OneDayConference.Tests.pdb
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\bin\Debug\OneDayConference.Web.dll
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\bin\Debug\OneDayConference.Web.pdb
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\bin\Debug\EntityFramework.dll
+C:\Projects\GitHub\OneDayConference\OneDayConference.Tests\bin\Debug\EntityFramework.xml

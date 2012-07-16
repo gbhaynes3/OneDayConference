@@ -1,0 +1,22 @@
+﻿@model OneDayConference.Web.Models.Speaker
+
+@{
+    ViewBag.Title = "title";
+}
+
+    <h3>
+        @Html.DisplayFor(x => x.Name)
+    </h3>
+    
+    <table>
+        <tr>
+            <th></th>
+        </tr>
+        @foreach(var session in Model.Sessions)
+        {
+            <tr>
+                <td>@session.Topic</td>
+                <td>@session.StartTime</td>
+            </tr>
+        }
+    </table>

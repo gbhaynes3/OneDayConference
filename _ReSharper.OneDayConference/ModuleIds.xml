@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="E9DA2DBE-6CDD-45E0-AF20-CF20F259A44F" ModuleId="OneDayConference.Tests" />
+  <Module PersistentId="0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61" ModuleId="OneDayConference.Web" />
+</Modules>

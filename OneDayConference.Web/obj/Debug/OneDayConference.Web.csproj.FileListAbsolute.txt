@@ -1,0 +1,7 @@
+C:\Projects\GitHub\OneDayConference\OneDayConference.Web\bin\OneDayConference.Web.dll
+C:\Projects\GitHub\OneDayConference\OneDayConference.Web\bin\OneDayConference.Web.pdb
+C:\Projects\GitHub\OneDayConference\OneDayConference.Web\bin\EntityFramework.dll
+C:\Projects\GitHub\OneDayConference\OneDayConference.Web\bin\EntityFramework.xml
+C:\Projects\GitHub\OneDayConference\OneDayConference.Web\obj\Debug\OneDayConference.Web.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\OneDayConference\OneDayConference.Web\obj\Debug\OneDayConference.Web.dll
+C:\Projects\GitHub\OneDayConference\OneDayConference.Web\obj\Debug\OneDayConference.Web.pdb

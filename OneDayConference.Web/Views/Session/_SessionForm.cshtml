@@ -1,0 +1,21 @@
+﻿@model OneDayConference.Web.Models.Session
+
+@using(Html.BeginForm())
+{
+    <fieldset>
+        <div>
+            <p>
+                @Html.EditorForModel()
+            <p>
+                <input type="submit" value="Save"/>
+            </p>
+        </div>
+
+    </fieldset>
+}
+
+<script>
+    $(function () {
+        $("#StartTime").timepicker({});
+    })
+</script>

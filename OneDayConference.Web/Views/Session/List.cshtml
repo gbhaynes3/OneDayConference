@@ -1,0 +1,20 @@
+﻿@model System.Collections.Generic.IEnumerable<OneDayConference.Web.Models.Session>
+
+@{
+    ViewBag.Title = "title";
+}
+
+
+<table>
+    <tr>
+        <th>Topic</th>
+        <th>Start Time</th>
+    </tr>
+    @foreach(var session in Model)
+    {
+        <tr>
+            <td>@session.Topic</td>
+            <td>@session.StartTime</td>
+        </tr>    
+    }
+</table>

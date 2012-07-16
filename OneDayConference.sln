@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneDayConference.Web", "OneDayConference.Web\OneDayConference.Web.csproj", "{0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneDayConference.Tests", "OneDayConference.Tests\OneDayConference.Tests.csproj", "{E9DA2DBE-6CDD-45E0-AF20-CF20F259A44F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C033BC3-B58C-414F-B727-B271319EA91B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8A8F27-EB36-4C5A-A3E7-95A799EB1A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9DA2DBE-6CDD-45E0-AF20-CF20F259A44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DA2DBE-6CDD-45E0-AF20-CF20F259A44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DA2DBE-6CDD-45E0-AF20-CF20F259A44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DA2DBE-6CDD-45E0-AF20-CF20F259A44F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

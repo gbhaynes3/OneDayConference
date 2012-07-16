@@ -1,0 +1,25 @@
+﻿@model OneDayConference.Web.Models.Attendee
+
+@{
+    
+}
+
+@using(Html.BeginForm()){
+<div>
+    
+    <p>
+        @Html.LabelFor(x => x.Name)
+        @Html.EditorFor(x => x.Name)
+    </p>
+    <p>
+        @Html.LabelFor(x => x.IsAttending)
+        @Html.CheckBoxFor(x=> x.IsAttending)
+    </p>
+    <p>
+        <input type="submit" value="Save"/>
+    </p>
+    <p>
+        To be come a <strong>Speaker</strong> click @Html.ActionLink("here", "Register", "Speaker")
+    </p>
+</div>
+}

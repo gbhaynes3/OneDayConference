@@ -1,0 +1,22 @@
+﻿@model System.Linq.IQueryable<OneDayConference.Web.Models.Session>
+
+@{
+    ViewBag.Title = "All Sessions";
+}
+
+<table>
+    <tr>
+        <th>Speaker's Name</th>
+        <th>Topic</th>
+        <th>Start Time</th>
+    </tr>
+
+@foreach(var session in Model)
+{
+    <tr>
+        <td>@session.Speaker.Name</td>
+        <td>@session.Topic</td>
+        <td>@session.StartTime</td>
+    </tr> 
+}
+</table>
